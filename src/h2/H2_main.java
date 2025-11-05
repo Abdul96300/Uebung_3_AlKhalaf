@@ -18,6 +18,7 @@ public class H2_main {
 			}
 			
 		}
+		else {schalt = false; }
 		System.out.print(schalt);
 	}
 
