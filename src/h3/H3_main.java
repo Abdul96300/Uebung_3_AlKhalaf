@@ -20,7 +20,7 @@ public class H3_main {
             istVoll = false;
         }
 
-		System.out.println("fix " + fix + " wartend " + wartend);
+		//System.out.println("fix " + fix + " wartend " + wartend);
 	}
 
 

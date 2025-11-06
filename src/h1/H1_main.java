@@ -41,12 +41,12 @@ public class H1_main {
 			warnhinweis = false;
 		} //Letzter Punkt Warnhinweis
 		
-		System.out.println( "Guthaben " + guthaben );
-		System.out.println( "moneingang" + monEingang );
-		System.out.println(  "rating " + rating );
-		System.out.println( "negativ " + negativ);
-		System.out.println( "warnhinweis "+warnhinweis );
-		System.out.println("betrag guthaben " + betrag_guthaben);
+		//System.out.println( "Guthaben " + guthaben );
+		//System.out.println( "moneingang" + monEingang );
+		//System.out.println(  "rating " + rating );
+		//System.out.println( "negativ " + negativ);
+		//System.out.println( "warnhinweis "+warnhinweis );
+		//System.out.println("betrag guthaben " + betrag_guthaben);
 		
 
 	}
